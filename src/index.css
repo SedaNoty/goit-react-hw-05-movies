@@ -13,3 +13,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h4 {
+  text-align: center;
+}
+
+input::placeholder {
+  color: #90a1a5;
+  opacity: 1;
+}
+
+input:focus {
+  border: 2px solid #919191bb;
+}
