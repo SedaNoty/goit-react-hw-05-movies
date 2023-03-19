@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[256],{9256:function(e,r,t){t.r(r);var n=t(184);r.default=function(){return(0,n.jsx)("main",{children:(0,n.jsx)("p",{children:"Sorry error 404."})})}}}]);
+//# sourceMappingURL=256.f9fa25f5.chunk.js.map
